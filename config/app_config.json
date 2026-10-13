@@ -1,7 +1,7 @@
 {
   "appName": "HealthApp",
   "version": "0.1.0",
-  "apiBaseUrl": "https://api.healthapp.dev/v1",
-  "sessionTimeoutMinutes": 15,
+  "apiBaseUrl": "https://api.healthapp.dev/v2",
+  "sessionTimeoutMinutes": 30,
   "databaseName": "healthapp_db"
 }
